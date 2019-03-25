@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // git commit 1
         // git commit 2
+        // git commit 3
     }
 }
