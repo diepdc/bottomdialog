@@ -14,9 +14,10 @@ class MainActivity : AppCompatActivity() {
         // update anh
         // update do doi ten
         // update anh de
+        //branch test
     }
     fun cm1(){
-
+            // todo branch test
     }
     fun cm2(){
 
