@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         // source tu develop
         // xoa het
         // test cancel commit
+        // test 2
     }
 }
 
