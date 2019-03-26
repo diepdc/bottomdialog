@@ -20,6 +20,10 @@ class MainActivity : AppCompatActivity() {
     fun cm3(){
 
     }
+    ////
+    fun test1(){
+
+    }
 }
 
 //edit
