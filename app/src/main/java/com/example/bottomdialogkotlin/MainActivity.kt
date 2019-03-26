@@ -14,6 +14,12 @@ class MainActivity : AppCompatActivity() {
     fun cm1(){
 
     }
+    fun cm2(){
+
+    }
+    fun cm3(){
+
+    }
 }
 
 
