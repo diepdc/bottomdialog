@@ -20,6 +20,15 @@ class MainActivity : AppCompatActivity() {
     fun cm3(){
 
     }
+    fun cm1(){
+
+    }
+    fun cm2(){
+
+    }
+    fun cm3(){
+
+    }
 }
 
 
