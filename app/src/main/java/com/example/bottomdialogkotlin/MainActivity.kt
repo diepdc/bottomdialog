@@ -27,6 +27,9 @@ class MainActivity : AppCompatActivity() {
     fun test3(){
 
     }
+    fun test8(){
+
+    }
 }
 
 //edit
