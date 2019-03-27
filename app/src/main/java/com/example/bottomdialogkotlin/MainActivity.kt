@@ -23,7 +23,6 @@ class MainActivity : AppCompatActivity() {
 }
 
 //edit ok
-//edit ok
 
 
 
